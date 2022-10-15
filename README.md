@@ -3,7 +3,7 @@
 # Chronic Kidney Disease Prediction
 This is a machine learning project that is trained on collected data of sample xray images of kidneys with CKD.
 <br/>
-It includes a lot of data about the individual and I used that feature to make an optimal model that will predict if a kidney is healthy or not
+It includes a lot of data about the individual images used for training and I used that feature to make an optimal model that will predict if a kidney is healthy or not
 <br/><br/>
 ## Solution approach in this model
 ### Data preparation part
