@@ -1,9 +1,9 @@
 ## Author:
 ## Grey Manuel
 # Chronic Kidney Disease Prediction
-This is a machine learning project that is trained on a collected data of people who are infected by these disease and some other people.
+This is a machine learning project that is trained on collected data of sample xray images of kidneys with CKD.
 <br/>
-It includes a lot of data about the individual and I used that feature to make an optimal model that will predict if someone is suffering from this disease or not.
+It includes a lot of data about the individual and I used that feature to make an optimal model that will predict if a kidney is healthy or not
 <br/><br/>
 ## Solution approach in this model
 ### Data preparation part
